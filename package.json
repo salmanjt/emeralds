@@ -1,0 +1,21 @@
+{
+  "name": "emerald",
+  "displayName": "Emerald",
+  "description": "Featuring hues of dark forest, mossy and emerald greens, this theme evokes a sense of luxury and elegance, while also representing growth, renewal and natural beauty.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Emerald-color-theme.json"
+      }
+    ]
+  }
+}

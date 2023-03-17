@@ -16,9 +16,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Emerald",
+        "label": "Emeralds",
         "uiTheme": "vs-dark",
-        "path": "./themes/Emerald-color-theme.json"
+        "path": "./themes/Emeralds.json"
       }
     ]
   },

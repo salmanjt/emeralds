@@ -1,8 +1,12 @@
 {
-  "name": "emerald",
-  "displayName": "Emerald",
+  "name": "emeralds",
+  "displayName": "Emeralds",
   "description": "Featuring hues of dark forest, mossy and emerald greens, this theme evokes a sense of luxury and elegance, while also representing growth, renewal and natural beauty.",
   "version": "0.0.1",
+  "author": {
+    "name": "Salman Tahir"
+  },
+  "publisher": "salmanjt",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -21,5 +25,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/salmanjt/emerald.git"
-  }
+  },
+  "homepage": "https://github.com/salmanjt/emerald"
 }

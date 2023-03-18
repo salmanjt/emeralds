@@ -1,18 +1,29 @@
 {
+  "version": "1.0.1",
   "name": "emeralds",
   "displayName": "Emeralds",
+  "icon": "files/emerald.png",
+  "galleryBanner": {
+    "color": "#1A1A18",
+    "theme": "dark"
+  },
   "description": "Featuring hues of dark forest, mossy and emerald greens, this theme evokes a sense of luxury and elegance, while also representing growth, renewal and natural beauty.",
-  "version": "1.0.1",
+  "publisher": "salmanjt",
   "author": {
     "name": "Salman Tahir"
   },
-  "publisher": "salmanjt",
-  "icon": "files/emerald.png",
   "engines": {
     "vscode": "^1.76.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "emerald",
+    "dark",
+    "dark theme",
+    "green",
+    "forest"
   ],
   "contributes": {
     "themes": [

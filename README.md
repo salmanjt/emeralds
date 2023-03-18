@@ -5,10 +5,13 @@ Featuring hues of dark forest, mossy and emerald greens, this theme evokes a sen
 ## Screenshots
 
 > JavaScript
+
 ![Screenshot](https://raw.githubusercontent.com/salmanjt/emeralds/main/files/demo-js.png)
 
 > Python
+
 ![Screenshot](https://raw.githubusercontent.com/salmanjt/emeralds/main/files/demo-py.png)
 
 > CSS
+
 ![Screenshot](https://raw.githubusercontent.com/salmanjt/emeralds/main/files/demo-css.png)

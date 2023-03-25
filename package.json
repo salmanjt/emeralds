@@ -2,7 +2,7 @@
   "version": "1.1.2",
   "name": "emeralds",
   "displayName": "Emeralds",
-  "icon": "files/emeralds.png",
+  "icon": "files/emerald-icon.png",
   "galleryBanner": {
     "color": "#1A1A18",
     "theme": "dark"

@@ -1,4 +1,4 @@
-# Emeralds <img src="https://raw.githubusercontent.com/salmanjt/emerald/main/files/emerald.png" width="32" height="32"/>
+# Emeralds <img src="https://raw.githubusercontent.com/salmanjt/emerald/main/files/emerald.png" width="30" height="30"/>
 
 Featuring hues of dark forest, mossy and emerald greens, this theme evokes a sense of luxury and elegance, while also representing growth, renewal and natural beauty.
 

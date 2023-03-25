@@ -156,22 +156,22 @@
 		"tab.unfocusedHoverBackground": "#1a1a18",
 		"tab.unfocusedHoverBorder": "#1a1a18",
 		"tab.unfocusedInactiveForeground": "#999999",
-		"terminal.ansiBlack": "#1A1A18",
-		"terminal.ansiBlue": "#83BCD8",
-		"terminal.ansiBrightBlack": "#2C2C28",
-		"terminal.ansiBrightBlue": "#83BCD8",
-		"terminal.ansiBrightCyan": "#95C6BD",
-		"terminal.ansiBrightGreen": "#C0CA91",
-		"terminal.ansiBrightMagenta": "#D4A0BD",
-		"terminal.ansiBrightRed": "#E09190",
+		"terminal.ansiBlack": "#111110",
+		"terminal.ansiBlue": "#83bcd8",
+		"terminal.ansiBrightBlack": "#787868",
+		"terminal.ansiBrightBlue": "#83bcd8",
+		"terminal.ansiBrightCyan": "#95c6bd",
+		"terminal.ansiBrightGreen": "#c0ca91",
+		"terminal.ansiBrightMagenta": "#bea5df",
+		"terminal.ansiBrightRed": "#ea8785",
 		"terminal.ansiBrightWhite": "#ffffff",
-		"terminal.ansiBrightYellow": "#EFD56C",
-		"terminal.ansiCyan": "#95C6BD",
-		"terminal.ansiGreen": "#C0CA91",
-		"terminal.ansiMagenta": "#D4A0BD",
-		"terminal.ansiRed": "#E09190",
+		"terminal.ansiBrightYellow": "#efd56c",
+		"terminal.ansiCyan": "#95c6bd",
+		"terminal.ansiGreen": "#c0ca91",
+		"terminal.ansiMagenta": "#bea5df",
+		"terminal.ansiRed": "#ea8785",
 		"terminal.ansiWhite": "#f5f5f5",
-		"terminal.ansiYellow": "#EFD56C",
+		"terminal.ansiYellow": "#efd56c",
 		"textBlockQuote.background": "#1d1d1b",
 		"textBlockQuote.border": "#3d4e4a",
 		"textLink.activeForeground": "#ffffff",
@@ -349,7 +349,7 @@
 		{
 			"scope": "token.debug-token",
 			"settings": {
-				"foreground": "#D4A0BD"
+				"foreground": "#bea5df"
 			}
 		}
 	]
